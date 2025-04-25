@@ -37,7 +37,7 @@ export default function Embed() {
                                 <img
                                     id="profile_image"
                                     className={styles.card__image}
-                                    src="https://github.com/downzin01.png"
+                                    src="https://github.com/downzin-pamonha.png"
                                     alt="Imagem de perfil de Downzin"
                                 />
                             </div>
