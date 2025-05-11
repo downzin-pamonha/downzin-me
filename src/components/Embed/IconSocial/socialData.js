@@ -22,14 +22,14 @@ export const socialData = [
         
     },
     {
-        link: 'https://github.com/Downzin01',
+        link: 'https://github.com/downzin-pamonha',
         iconSrc: './img/github.png',
         altText: 'Github',
         labelText: 'Github',
         tooltipText: 'Clique para abrir o meu perfil no Github',
     },
     {
-        link: 'https://www.linkedin.com/in/matheus-dantas-846315312/',
+        link: 'https://www.linkedin.com/in/downzin',
         iconSrc: './img/LinkedIn.png',
         altText: 'LinkedIn',
         labelText: 'LinkedIn',

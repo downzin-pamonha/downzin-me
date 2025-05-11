@@ -14,6 +14,7 @@ export default function IconSocial() {
                 >
                     <a
                         href={texto.link}
+                        target='_blank'
                         className={styles.social_icons__link}
                         id={`tooltip-${index}`}
                     >
